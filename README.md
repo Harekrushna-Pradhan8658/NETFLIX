@@ -74,7 +74,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # MY NOTES
 - create-react-app netflix-gpt
 - Configured tellwind
+- npm i -D react-router-dom
 
+
+# NETFLIX-GPT
+- Header
+- Login Form
 
 # Features
 - Login/ SignUp
